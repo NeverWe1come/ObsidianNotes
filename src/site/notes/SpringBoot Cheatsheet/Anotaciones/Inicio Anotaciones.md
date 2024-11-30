@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spring-boot-cheatsheet/anotaciones/inicio-anotaciones/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/spring-boot-cheatsheet/anotaciones/inicio-anotaciones/"}
 ---
 
 
