@@ -7,9 +7,3 @@
 - **BBDD:** [[BBDD/Índice BBDD\|Índice BBDD]]
 - **Ciberseguridad:** [[Ciberseguridad/Índice Ciberseguridad\|Índice Ciberseguridad]]
 - **Otros:** [[Otros/Índice Otros\|Índice Otros]]
-
-# Hola
-bvbvbvj
-## hola2
-biuvqenmv
-### hola 3
