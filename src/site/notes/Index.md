@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
 - **Cheat Sheets:** [[Cheat Sheets/Índice Cheat Sheets\|Índice Cheat Sheets]]
