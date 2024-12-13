@@ -8,7 +8,7 @@
 - **Descripciones básicas:** [[Programación/Contenido/Java/Contenido/Spring Boot/Contenido/Otros/Inicio#Descripciones básicas\|Inicio#Descripciones básicas]]
 - **Elementos necesarios para desarrollo Spring Boot:** [[Programación/Contenido/Java/Contenido/Spring Boot/Contenido/Otros/Inicio#Elementos necesarios para el desarrollo Spring\|Inicio#Elementos necesarios para el desarrollo Spring]]
 	- **Java:** [[Programación/Contenido/Java/Contenido/Spring Boot/Elementos para desarrollo con Spring Boot/Contenido/Java\|Programación/Contenido/Java/Contenido/Spring Boot/Elementos para desarrollo con Spring Boot/Contenido/Java]] 
-	- **Maven:** [[Maven\|Maven]]
+	- **Maven:** [[Programación/Contenido/Maven/Maven\|Maven]]
 	- **Variables de entorno:** [[Programación/Contenido/Java/Contenido/Spring Boot/Elementos para desarrollo con Spring Boot/Contenido/Variables de entorno\|Programación/Contenido/Java/Contenido/Spring Boot/Elementos para desarrollo con Spring Boot/Contenido/Variables de entorno]]
 	- **IDEs recomendados**
 		- **Visual Studio Code:** [[Visual Studio Code\|Visual Studio Code]]
