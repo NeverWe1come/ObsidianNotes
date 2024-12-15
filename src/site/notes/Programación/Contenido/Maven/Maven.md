@@ -31,10 +31,10 @@ Lugares donde se encuentran los archivos utilizados por Maven para su funcionami
 
 ## Cambiar repositorio local de maven
 Maven determina la ubicación del repositorio local, buscando el archivo settings.xml en dos ubicaciones:
-![programacion-maven-maven_Decision-Repositorio-Local_.png](/img/user/Im%C3%A1genes/programacion-maven-maven_Decision-Repositorio-Local_.png)
+![programacion-contenido-maven-maven_Decision-Repositorio-Local_.png](/img/user/Im%C3%A1genes/programacion-contenido-maven-maven_Decision-Repositorio-Local_.png)
 
 settings.xml:
-```
+```xml
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd">
       
@@ -49,5 +49,5 @@ xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.
 - **/surefire-reports:** Informes de los tests.
 - **/.jar:** Artefacto del proyecto generado.
 - **/maven-archiver y /maven-status:** Archivos utilizados por maven durante la compilación del proyecto.
-  ![programacion-maven-maven_Carpeta-Target_.png](/img/user/Im%C3%A1genes/programacion-maven-maven_Carpeta-Target_.png)
+  ![programacion-contenido-maven-maven_Carpeta-Target_.png](/img/user/Im%C3%A1genes/programacion-contenido-maven-maven_Carpeta-Target_.png)
 - 

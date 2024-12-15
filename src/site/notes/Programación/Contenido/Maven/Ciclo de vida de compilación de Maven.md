@@ -34,7 +34,7 @@ Se utilizan para dar valores fijos que vana a ser utilizados en varias partes de
 - **Variables POM:** Sirven para prefijar una variable con *project* -> ${project.version} (Devolverá el valor versión del pom.xml)
 - **Variables de configuración:** Sirven para prefijar una variable de configuración con *settings* ->${settings.offline} (Devolverá el valor del elemento offline del archivo settings.xml) 
 - **Propiedades normales:** Aquellas que se establecen dentro de la etiqueta properties -> ${java.version} (Devolverá 17)
-```
+```xml
 <properties>
 	<java.version>17</java.version>
 </properties>

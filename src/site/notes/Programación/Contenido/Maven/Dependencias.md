@@ -6,7 +6,7 @@ Las dependencias son bibliotecas externas que el proyecto necesita para funciona
 
 # ¿Cómo declarar una dependencia?
 Las dependencias se declaran en el fichero pom.xml de nuestro proyecto, de la siguiente forma:
-```
+```xml
 <dependencies>
 	<dependency>
       <groupId>junit</groupId>

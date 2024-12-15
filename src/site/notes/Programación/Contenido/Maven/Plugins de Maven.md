@@ -6,7 +6,7 @@
 Cuando se llama a la fase clean de un ciclo de vida, Maven ejecuta este ciclo de vida y elimina la carpeta target de nuestro proyecto, de esta forma elimina cualquier rastro de una compilación anterior que pueda afectar a una nueva. Para ello hace uso del *Maven Clean Plugin*, como clean es un ciclo de vida separado, es necesario llamarlo siempre antes del ciclo de vida default, si se necesita que se eliminen compilaciones anteriores.
 - mvn clean
 Si se desea que de forma automática el ciclo de vida clean se ejecute antes de cualquier compilación, se deben añadir alguna configuraciones en el pom.xml:
-```
+```xml
 <plugins>
 <!-- Ejecutará el plugin clean en la fase de inicialización y se podrá identificar con el id auto-clean -->
   <plugin>
